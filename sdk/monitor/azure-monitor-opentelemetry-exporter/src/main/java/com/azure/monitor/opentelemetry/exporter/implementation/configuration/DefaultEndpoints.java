@@ -12,7 +12,7 @@ class DefaultEndpoints {
 
     static final String LIVE_ENDPOINT = "https://rt.services.visualstudio.com/";
 
-    static final String PROFILER_ENDPOINT = "https://agent.azureserviceprofiler.net/";
+    static final String PROFILER_ENDPOINT = "https://profiler.monitor.azure.com/";
 
     private DefaultEndpoints() {
     }
